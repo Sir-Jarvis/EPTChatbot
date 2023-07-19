@@ -12,10 +12,11 @@ Ce projet est un chatbot personnalisé pour l'École Polytechnique de Thiès. Le
 
 1. Clonez le dépôt vers votre machine locale :
 
--- bash -- command line
+``` bash -- command line
 git clone git@github.com:Sir-Jarvis/EPTChatbot.git
-cd EPTChatbot
 
+cd EPTChatbot
+``` 
 2. Installez les dépendances nécessaires :
 pip install -r requirements.txt
 
