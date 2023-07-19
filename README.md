@@ -42,6 +42,8 @@ print(response)
 Déploiement
 Vous pouvez déployer ce chatbot sur une plateforme d'hébergement telle que Heroku(ce qui n'a pas marché avec moi vu la ùéthode de paiement) ou sur pythonanywhere(rencontre de quelques erreurs ppour creer l'environnement virtuel) ou bien sur netlify.
 
+Rendu du chatbot: https://ept-chatbot.netlify.app/
+
 Auteur
 Cheikh LO
 
